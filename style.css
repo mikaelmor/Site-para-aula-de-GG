@@ -1,0 +1,136 @@
+.header{ 
+text-align: center;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+color: #FFFFFF;
+background-color: #2E94CC;
+padding: 8px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.byivan{
+position: absolute;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+width: 230px;
+height: 18px;
+left: 294px;
+top: 120px;
+font-size: 11px;
+color: #6C6C6C;
+}
+
+.start{ 
+position: absolute;
+width: 797px;
+height: 58px;
+left: 294px;
+top: 100px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 58px;
+color: #000000;
+}
+
+img { 
+position: absolute;
+display: flex;
+width: 871px;
+height: 380px;
+left: 303px;
+top: 327px;
+}
+
+p1{ 
+position: absolute;
+width: 684px;
+height: 79px;
+left: 380px;
+top: 800px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p2{ 
+position: absolute;
+width: 684px;
+height: 79px;
+left: 380px;
+top: 880px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.nullam { 
+color: #000000;
+font-style: normal;
+font-family: 'Arial';
+position: absolute;
+width: 800px;
+height: 100px;
+left: 380px;
+top: 947px;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+}
+
+p3 { 
+position: absolute;
+width: 684px;
+height: 79px;
+left: 380px;
+top: 1019px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.lista { 
+position: absolute;
+width: 162px;
+height: 72px;
+left: 397px;
+top: 1090px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+
+p4 { 
+position: absolute;
+width: 784px;
+height: 109px;
+left: 380px;
+top: 1203px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p5 { 
+position: relative;
+top: 1180px;
+left: 380px;
+}
+
+.box-position { 
+position: absolute;
+width: 790px;
+height: 173px;
+left: 380px;
+top: 1840px;
+text-align: start;
+font-style: normal;
+font-family: "Arial";
+font-weight: 500;
+font-size: 20px;
+color: #2E94CC ;
+background-color: #F1F1F1;
+padding: 8px;
+}
+
+
